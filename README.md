@@ -1,7 +1,6 @@
-### Hola, buen dia. Soy Moises. Un saludo :)
-<!-- Personaliza tu perfil de GitHub -->
+
 <div align="center" style="background-color: black; padding: 20px;">
-  <h1 style="color: white;">Hola, soy Moisés. ¡Un saludo! 😊</h1>
+  <h1 style="color: white;">Hola, Buen dia. Soy Moisés. ¡Un saludo! 😊</h1>
 </div>
 
 <!--
