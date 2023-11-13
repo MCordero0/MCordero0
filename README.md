@@ -3,7 +3,7 @@
   <h1 style="color: white;">Hola, Buen dia. Soy Moisés. ¡Un saludo! 😊</h1>
 </div>
 
-<!--
+
 **MCordero0/MCordero0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Sobre mi:
@@ -16,4 +16,4 @@ Sobre mi:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
