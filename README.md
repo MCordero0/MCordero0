@@ -1,4 +1,4 @@
-### Hola, buen dia. Soy Moises. :)
+### Hola, buen dia. Soy Moises. Un saludo :)
 
 <!--
 **MCordero0/MCordero0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
