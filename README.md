@@ -2,9 +2,7 @@
 <div align="center" style="background-color: black; padding: 20px;">
   <h1 style="color: white;">Hola, Buen dia. Soy Moisés. ¡Un saludo! 😊</h1>
 </div>
-
-
-**MCordero0/MCordero0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); -webkit-background-clip: text; color: transparent; font-size: 24px;">¡Texto Arcoíris!</span>
 
 Sobre mi:
 
